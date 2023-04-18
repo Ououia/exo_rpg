@@ -46,7 +46,7 @@ class Joueur extends Personnage
 				}
 
 				echo "target hp :" . $target->getPv().PHP_EOL;
-				echo "player hp :" . $this->pv.PHP_EOL;
+				// echo "player hp :" . $this->pv.PHP_EOL;
 				
 			}		
 
